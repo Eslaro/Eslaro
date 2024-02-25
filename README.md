@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eslaro
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on something when i learn
 - 📫 How to reach me Discord "eslaro"
 
